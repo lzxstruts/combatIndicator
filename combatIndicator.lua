@@ -24,5 +24,4 @@ local function CombatIndicatorUpdate(self, elapsed)
     end
     combatIndicatorFrame:Show()
 end
-
 combatIndicatorFrame:SetScript("OnUpdate", CombatIndicatorUpdate)
