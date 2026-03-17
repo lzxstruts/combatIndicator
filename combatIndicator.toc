@@ -1,0 +1,7 @@
+## Interface: 120000
+## Title: CombatIndicator
+## Notes: 显示战斗状态指示器
+## Author: lzx
+## Version: 1.0
+
+combatIndicator.lua
